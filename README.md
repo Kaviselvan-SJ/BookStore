@@ -26,5 +26,3 @@ A full-featured Book Store Management System built using JSP, Servlets, and MySQ
 2. Apache Tomcat Server
 3. MySQL Database
 
-## Screenshots
-
