@@ -29,8 +29,9 @@ A full-featured Book Store Management System built using JSP, Servlets, and MySQ
 ## Screenshots
 
 ![Screenshot 2024-11-13 000149](https://github.com/user-attachments/assets/2410c1e6-c671-424b-abc9-87bb204eb66d)
+
 ![Screenshot 2024-11-13 000218](https://github.com/user-attachments/assets/70f5b555-91ab-49c9-b50d-e04eaceb10b1)
+
 ![Screenshot 2024-11-13 000032](https://github.com/user-attachments/assets/84757102-77a4-4b09-9c85-fa3db469092a)
-![Screenshot 2024-11-13 000125](https://github.com/user-attachments/assets/1bbdc1ed-462b-4840-9d8a-fb906ad20baa)
 
-
+![Screenshot 2024-11-13 000125-Photoroom](https://github.com/user-attachments/assets/bc99667c-8cdd-4667-8c83-8db6f88783c2)
